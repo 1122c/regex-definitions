@@ -1,4 +1,4 @@
-# regex-definitions
+# Regex Definitions
 
 [Link to Regex Tutorial Gist]([URL](https://gist.github.com/1122c/261a4db124b058b70a281bc43b892a34)https://gist.github.com/1122c/261a4db124b058b70a281bc43b892a34)
 
